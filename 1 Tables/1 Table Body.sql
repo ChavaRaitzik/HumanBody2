@@ -1,4 +1,4 @@
-use humanbodydb
+ use humanbodydb
 go
 drop table if exists body
 go
